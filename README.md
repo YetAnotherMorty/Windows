@@ -4,3 +4,5 @@ An archive of various versions of Windows. Below you will find the versions of W
 ***Note:*** You must download all of the parts for each of the versions of Windows in order for you to extract them completely. I also use [DownGit](https://downgit.github.io/#/home) to make download links to make your life a little bit easier.
 
 # Downloads
+| Windows Version | Size | Download Link |
+| - | - | - |
